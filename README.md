@@ -1,8 +1,8 @@
 # menghitunglingkaran
 Mmenghitung luas dan keliling lingkaran
 
-Luas     = phi*(r*r)
-Keliling = 2* phi*r
+Luas     = phi * (r * r)
+Keliling = 2 * phi * r
 
 - Nilai phi yang digunakan adalah 3.14
 - r merupakan jari-jari lingkaran
