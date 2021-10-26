@@ -10,11 +10,11 @@ Keliling = 2* phi*r
 Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja.
 
 Flowchart Menghitung Luas dan Keliling Lingkaran
-[img](1.png)
+![img](1.png)
 
 
 Program Menghitung Luas dan Keliling Lingkaran 
-[img](2.png)
+![img](2.png)
 
 Penjelasan
 
@@ -23,7 +23,7 @@ Kita menggunakan jari-jari (r) yang nantinya akan dimasukan user pada layar. Kit
 Ketika nilai jari-jarinya sudah dimasukkan selanjutnya kita bisa menghitung luas dan keliling lingkaran dengan rumusnya.
 
 Setelah itu, kita tampilkan hasilnya dengan fungsi print().
-[img](3.png)
+![img](3.png)
 
 
 
